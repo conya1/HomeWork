@@ -18,4 +18,4 @@ Use a backend to manage the state file (we will cover this in class)
 ## Push your code to your branch once you are done 
 * `git add .`  
 * `git commit -m <"commit message">`
-* `git push --set-upstream origin <name of the branch>` 
+* `git push 
